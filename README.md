@@ -1,7 +1,7 @@
 ### Git Trainging
 
 
-add some text from B
+It's a ME Mario!
 ![](ref/1295991.webp)
 
 # End file
